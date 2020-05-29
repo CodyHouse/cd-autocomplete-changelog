@@ -1,5 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.1] - 2020-05-29
+- New data-autocomplete-dropdown-truncate option
+- New option for multiple HTML result templates
+- Replaced .autocomplete__result class with .autocomplete__item class
+
 ## [1.0.0] - 2020-05-25
 - Component created
