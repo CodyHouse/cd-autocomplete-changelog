@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.1] - 2020-10-16
+- Improved onClick and searchData options
+- Minor bug fixes
+
 ## [1.0.1] - 2020-05-29
 - New data-autocomplete-dropdown-truncate option
 - New option for multiple HTML result templates
