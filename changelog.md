@@ -1,7 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
-## [1.0.1] - 2020-10-16
+## [1.0.3] - 2020-11-05
+- Fixed bug with searchData option
+
+## [1.0.2] - 2020-10-16
 - Improved onClick and searchData options
 - Minor bug fixes
 
