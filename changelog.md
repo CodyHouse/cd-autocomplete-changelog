@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-11-23
+- Minor bug fixes
+
 ## [1.0.3] - 2020-11-05
 - Fixed bug with searchData option
 
